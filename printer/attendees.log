@@ -1,0 +1,127 @@
+::1 - - [21/Jan/2015:11:16:00 -0700] "POST /attendees?name=pizza&zipcode=80204&congress_person=Susan%20Bonamici HTTP/1.1" 200 74 0.0055
+I, [2015-01-21T11:18:32.673764 #69512]  INFO -- : {"name":"pizza","congress_person":"Susan Bonamici","zipcode":"80204"}
+I, [2015-01-21T11:20:37.252173 #69537]  INFO -- : {"name":"pizza","congress_person":"Susan Bonamici","zipcode":"80204"}
+I, [2015-01-21T11:41:42.797863 #69682]  INFO -- : {"name":"pizza","congress_person":"Susan Bonamici","zipcode":"80204"}
+I, [2015-01-21T11:51:36.375181 #69990]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T11:51:36.684346 #69990]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T11:51:37.027961 #69990]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T11:51:37.195107 #69990]  INFO -- : {"name":"Allison Nguyen","congress_person":"Eleanor Norton","zipcode":"20010"}
+I, [2015-01-21T11:51:37.910005 #69990]  INFO -- : {"name":"SArah Hankins","congress_person":"Eleanor Norton","zipcode":"20009"}
+I, [2015-01-21T11:51:38.169634 #69990]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T11:51:38.384600 #69990]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T11:51:38.525136 #69990]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T11:51:38.826682 #69990]  INFO -- : {"name":"Aya Fuller","congress_person":"Henry Waxman","zipcode":"90210"}
+I, [2015-01-21T11:51:39.058441 #69990]  INFO -- : {"name":"Mary Kate Curry","congress_person":"Benjamin Cardin","zipcode":"21230"}
+I, [2015-01-21T11:51:39.331234 #69990]  INFO -- : {"name":"Audrey Hasegan","congress_person":"Dianne Feinstein","zipcode":"95667"}
+I, [2015-01-21T11:51:39.619092 #69990]  INFO -- : {"name":"Shiyu Armideo","congress_person":"Mazie Hirono","zipcode":"96734"}
+I, [2015-01-21T11:51:39.966199 #69990]  INFO -- : {"name":"Eli Zielke","congress_person":"Dianne Feinstein","zipcode":"92037"}
+I, [2015-01-21T11:51:40.154723 #69990]  INFO -- : {"name":"Colin Harmston","congress_person":"Unknown","zipcode":"2703"}
+I, [2015-01-21T11:51:40.402847 #69990]  INFO -- : {"name":"Megan Doe","congress_person":"Steve Stivers","zipcode":"43201"}
+I, [2015-01-21T11:51:40.615266 #69990]  INFO -- : {"name":"Meggie Tippit","congress_person":"Dianne Feinstein","zipcode":"94611"}
+I, [2015-01-21T11:51:40.813098 #69990]  INFO -- : {"name":"Laura Rapetsky","congress_person":"Unknown","zipcode":"924"}
+I, [2015-01-21T11:51:41.155125 #69990]  INFO -- : {"name":"Paul Fulghum","congress_person":"Charles Schumer","zipcode":"14517"}
+I, [2015-01-21T11:51:41.347932 #69990]  INFO -- : {"name":"Shannon Warner","congress_person":"Unknown","zipcode":"3082"}
+I, [2015-01-21T11:51:41.570012 #69990]  INFO -- : {"name":"Shannon Davis","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:41.730351 #69990]  INFO -- : {"name":"Nash Okaty","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:41.953162 #69990]  INFO -- : {"name":"Amanda Hartzell","congress_person":"Charles Schumer","zipcode":"14841"}
+I, [2015-01-21T11:51:42.165027 #69990]  INFO -- : {"name":"David Thomas","congress_person":"Unknown","zipcode":"7306"}
+I, [2015-01-21T11:51:42.374227 #69990]  INFO -- : {"name":"Allison Nguyen","congress_person":"Eleanor Norton","zipcode":"20010"}
+I, [2015-01-21T11:51:42.571773 #69990]  INFO -- : {"name":"SArah Hankins","congress_person":"Eleanor Norton","zipcode":"20009"}
+I, [2015-01-21T11:51:43.014004 #69990]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T11:51:44.229483 #69990]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T11:51:44.371574 #69990]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T11:51:44.512447 #69990]  INFO -- : {"name":"Aya Fuller","congress_person":"Henry Waxman","zipcode":"90210"}
+I, [2015-01-21T11:51:44.794910 #69990]  INFO -- : {"name":"Mary Kate Curry","congress_person":"Benjamin Cardin","zipcode":"21230"}
+I, [2015-01-21T11:51:45.091157 #69990]  INFO -- : {"name":"Audrey Hasegan","congress_person":"Dianne Feinstein","zipcode":"95667"}
+I, [2015-01-21T11:51:45.233407 #69990]  INFO -- : {"name":"Shiyu Armideo","congress_person":"Mazie Hirono","zipcode":"96734"}
+I, [2015-01-21T11:51:45.498942 #69990]  INFO -- : {"name":"Eli Zielke","congress_person":"Dianne Feinstein","zipcode":"92037"}
+I, [2015-01-21T11:51:45.721325 #69990]  INFO -- : {"name":"Colin Harmston","congress_person":"Unknown","zipcode":"2703"}
+I, [2015-01-21T11:51:45.959073 #69990]  INFO -- : {"name":"Megan Doe","congress_person":"Steve Stivers","zipcode":"43201"}
+I, [2015-01-21T11:51:46.187113 #69990]  INFO -- : {"name":"Meggie Tippit","congress_person":"Dianne Feinstein","zipcode":"94611"}
+I, [2015-01-21T11:51:46.433457 #69990]  INFO -- : {"name":"Laura Rapetsky","congress_person":"Unknown","zipcode":"924"}
+I, [2015-01-21T11:51:46.710258 #69990]  INFO -- : {"name":"Paul Fulghum","congress_person":"Charles Schumer","zipcode":"14517"}
+I, [2015-01-21T11:51:46.998407 #69990]  INFO -- : {"name":"Shannon Warner","congress_person":"Unknown","zipcode":"3082"}
+I, [2015-01-21T11:51:47.258294 #69990]  INFO -- : {"name":"Shannon Davis","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:47.411779 #69990]  INFO -- : {"name":"Nash Okaty","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:47.560821 #69990]  INFO -- : {"name":"Amanda Hartzell","congress_person":"Charles Schumer","zipcode":"14841"}
+I, [2015-01-21T11:51:47.805428 #69990]  INFO -- : {"name":"David Thomas","congress_person":"Unknown","zipcode":"7306"}
+I, [2015-01-21T11:51:47.952715 #69990]  INFO -- : {"name":"Allison Nguyen","congress_person":"Eleanor Norton","zipcode":"20010"}
+I, [2015-01-21T11:51:48.192637 #69990]  INFO -- : {"name":"SArah Hankins","congress_person":"Eleanor Norton","zipcode":"20009"}
+I, [2015-01-21T11:51:48.451007 #69990]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T11:51:48.738802 #69990]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T11:51:48.926054 #69990]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T11:51:49.072516 #69990]  INFO -- : {"name":"Aya Fuller","congress_person":"Henry Waxman","zipcode":"90210"}
+I, [2015-01-21T11:51:49.219846 #69990]  INFO -- : {"name":"Mary Kate Curry","congress_person":"Benjamin Cardin","zipcode":"21230"}
+I, [2015-01-21T11:51:49.363562 #69990]  INFO -- : {"name":"Audrey Hasegan","congress_person":"Dianne Feinstein","zipcode":"95667"}
+I, [2015-01-21T11:51:49.527888 #69990]  INFO -- : {"name":"Shiyu Armideo","congress_person":"Mazie Hirono","zipcode":"96734"}
+I, [2015-01-21T11:51:49.692272 #69990]  INFO -- : {"name":"Eli Zielke","congress_person":"Dianne Feinstein","zipcode":"92037"}
+I, [2015-01-21T11:51:49.879227 #69990]  INFO -- : {"name":"Colin Harmston","congress_person":"Unknown","zipcode":"2703"}
+I, [2015-01-21T11:51:50.061533 #69990]  INFO -- : {"name":"Megan Doe","congress_person":"Steve Stivers","zipcode":"43201"}
+I, [2015-01-21T11:51:50.218497 #69990]  INFO -- : {"name":"Meggie Tippit","congress_person":"Dianne Feinstein","zipcode":"94611"}
+I, [2015-01-21T11:51:50.356765 #69990]  INFO -- : {"name":"Laura Rapetsky","congress_person":"Unknown","zipcode":"924"}
+I, [2015-01-21T11:51:50.558935 #69990]  INFO -- : {"name":"Paul Fulghum","congress_person":"Charles Schumer","zipcode":"14517"}
+I, [2015-01-21T11:51:50.820822 #69990]  INFO -- : {"name":"Shannon Warner","congress_person":"Unknown","zipcode":"3082"}
+I, [2015-01-21T11:51:50.967908 #69990]  INFO -- : {"name":"Shannon Davis","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:51.115800 #69990]  INFO -- : {"name":"Nash Okaty","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:51.268471 #69990]  INFO -- : {"name":"Amanda Hartzell","congress_person":"Charles Schumer","zipcode":"14841"}
+I, [2015-01-21T11:51:51.425766 #69990]  INFO -- : {"name":"David Thomas","congress_person":"Unknown","zipcode":"7306"}
+I, [2015-01-21T11:51:51.559778 #69990]  INFO -- : {"name":"Allison Nguyen","congress_person":"Eleanor Norton","zipcode":"20010"}
+I, [2015-01-21T11:51:51.723297 #69990]  INFO -- : {"name":"SArah Hankins","congress_person":"Eleanor Norton","zipcode":"20009"}
+I, [2015-01-21T11:51:51.880852 #69990]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T11:51:52.046279 #69990]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T11:51:52.200633 #69990]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T11:51:52.368604 #69990]  INFO -- : {"name":"Aya Fuller","congress_person":"Henry Waxman","zipcode":"90210"}
+I, [2015-01-21T11:51:52.665837 #69990]  INFO -- : {"name":"Mary Kate Curry","congress_person":"Benjamin Cardin","zipcode":"21230"}
+I, [2015-01-21T11:51:52.853586 #69990]  INFO -- : {"name":"Audrey Hasegan","congress_person":"Dianne Feinstein","zipcode":"95667"}
+I, [2015-01-21T11:51:53.026757 #69990]  INFO -- : {"name":"Shiyu Armideo","congress_person":"Mazie Hirono","zipcode":"96734"}
+I, [2015-01-21T11:51:53.209777 #69990]  INFO -- : {"name":"Eli Zielke","congress_person":"Dianne Feinstein","zipcode":"92037"}
+I, [2015-01-21T11:51:53.343879 #69990]  INFO -- : {"name":"Colin Harmston","congress_person":"Unknown","zipcode":"2703"}
+I, [2015-01-21T11:51:53.601749 #69990]  INFO -- : {"name":"Megan Doe","congress_person":"Steve Stivers","zipcode":"43201"}
+I, [2015-01-21T11:51:53.790358 #69990]  INFO -- : {"name":"Meggie Tippit","congress_person":"Dianne Feinstein","zipcode":"94611"}
+I, [2015-01-21T11:51:53.967541 #69990]  INFO -- : {"name":"Laura Rapetsky","congress_person":"Unknown","zipcode":"924"}
+I, [2015-01-21T11:51:54.151297 #69990]  INFO -- : {"name":"Paul Fulghum","congress_person":"Charles Schumer","zipcode":"14517"}
+I, [2015-01-21T11:51:54.286104 #69990]  INFO -- : {"name":"Shannon Warner","congress_person":"Unknown","zipcode":"3082"}
+I, [2015-01-21T11:51:54.471716 #69990]  INFO -- : {"name":"Shannon Davis","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:54.681199 #69990]  INFO -- : {"name":"Nash Okaty","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:51:54.869472 #69990]  INFO -- : {"name":"Amanda Hartzell","congress_person":"Charles Schumer","zipcode":"14841"}
+I, [2015-01-21T11:51:55.070012 #69990]  INFO -- : {"name":"David Thomas","congress_person":"Unknown","zipcode":"7306"}
+I, [2015-01-21T11:54:09.312631 #70188]  INFO -- : {"name":"Allison Nguyen","congress_person":"Eleanor Norton","zipcode":"20010"}
+I, [2015-01-21T11:54:09.334886 #70188]  INFO -- : {"name":"SArah Hankins","congress_person":"Eleanor Norton","zipcode":"20009"}
+I, [2015-01-21T11:54:09.569831 #70188]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T11:54:09.572405 #70188]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T11:54:09.854149 #70188]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T11:54:09.861214 #70188]  INFO -- : {"name":"Aya Fuller","congress_person":"Henry Waxman","zipcode":"90210"}
+I, [2015-01-21T11:54:10.072193 #70188]  INFO -- : {"name":"Audrey Hasegan","congress_person":"Dianne Feinstein","zipcode":"95667"}
+I, [2015-01-21T11:54:10.082903 #70188]  INFO -- : {"name":"Mary Kate Curry","congress_person":"Benjamin Cardin","zipcode":"21230"}
+I, [2015-01-21T11:54:10.308692 #70188]  INFO -- : {"name":"Shiyu Armideo","congress_person":"Mazie Hirono","zipcode":"96734"}
+I, [2015-01-21T11:54:10.317252 #70188]  INFO -- : {"name":"Eli Zielke","congress_person":"Dianne Feinstein","zipcode":"92037"}
+I, [2015-01-21T11:54:10.569794 #70188]  INFO -- : {"name":"Colin Harmston","congress_person":"Unknown","zipcode":"2703"}
+I, [2015-01-21T11:54:10.582438 #70188]  INFO -- : {"name":"Megan Doe","congress_person":"Steve Stivers","zipcode":"43201"}
+I, [2015-01-21T11:54:10.777899 #70188]  INFO -- : {"name":"Laura Rapetsky","congress_person":"Unknown","zipcode":"924"}
+I, [2015-01-21T11:54:10.781441 #70188]  INFO -- : {"name":"Meggie Tippit","congress_person":"Dianne Feinstein","zipcode":"94611"}
+I, [2015-01-21T11:54:10.986459 #70188]  INFO -- : {"name":"Paul Fulghum","congress_person":"Charles Schumer","zipcode":"14517"}
+I, [2015-01-21T11:54:10.995733 #70188]  INFO -- : {"name":"Shannon Warner","congress_person":"Unknown","zipcode":"3082"}
+I, [2015-01-21T11:54:11.188858 #70188]  INFO -- : {"name":"Shannon Davis","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:54:11.191076 #70188]  INFO -- : {"name":"Nash Okaty","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T11:54:11.388290 #70188]  INFO -- : {"name":"David Thomas","congress_person":"Unknown","zipcode":"7306"}
+I, [2015-01-21T11:54:11.427516 #70188]  INFO -- : {"name":"Amanda Hartzell","congress_person":"Charles Schumer","zipcode":"14841"}
+I, [2015-01-21T12:02:23.458646 #70268]  INFO -- : {"name":"Allison Nguyen","congress_person":"Eleanor Norton","zipcode":"20010"}
+I, [2015-01-21T12:02:23.916174 #70268]  INFO -- : {"name":"SArah Hankins","congress_person":"Eleanor Norton","zipcode":"20009"}
+I, [2015-01-21T12:02:24.248752 #70268]  INFO -- : {"name":"Sarah Xx","congress_person":"David Jolly","zipcode":"33703"}
+I, [2015-01-21T12:02:24.578378 #70268]  INFO -- : {"name":"Jennifer Cope","congress_person":"Jim Cooper","zipcode":"37216"}
+I, [2015-01-21T12:02:24.905304 #70268]  INFO -- : {"name":"Douglas Zimmerman","congress_person":"Thomas Harkin","zipcode":"50309"}
+I, [2015-01-21T12:02:25.243222 #70268]  INFO -- : {"name":"Aya Fuller","congress_person":"Henry Waxman","zipcode":"90210"}
+I, [2015-01-21T12:02:25.553400 #70268]  INFO -- : {"name":"Mary Kate Curry","congress_person":"Benjamin Cardin","zipcode":"21230"}
+I, [2015-01-21T12:02:25.748412 #70268]  INFO -- : {"name":"Audrey Hasegan","congress_person":"Dianne Feinstein","zipcode":"95667"}
+I, [2015-01-21T12:02:25.923124 #70268]  INFO -- : {"name":"Shiyu Armideo","congress_person":"Mazie Hirono","zipcode":"96734"}
+I, [2015-01-21T12:02:26.149730 #70268]  INFO -- : {"name":"Eli Zielke","congress_person":"Dianne Feinstein","zipcode":"92037"}
+I, [2015-01-21T12:02:26.372498 #70268]  INFO -- : {"name":"Colin Harmston","congress_person":"Unknown","zipcode":"2703"}
+I, [2015-01-21T12:02:26.522449 #70268]  INFO -- : {"name":"Megan Doe","congress_person":"Steve Stivers","zipcode":"43201"}
+I, [2015-01-21T12:02:26.671714 #70268]  INFO -- : {"name":"Meggie Tippit","congress_person":"Dianne Feinstein","zipcode":"94611"}
+I, [2015-01-21T12:02:26.835393 #70268]  INFO -- : {"name":"Laura Rapetsky","congress_person":"Unknown","zipcode":"924"}
+I, [2015-01-21T12:02:26.980698 #70268]  INFO -- : {"name":"Paul Fulghum","congress_person":"Charles Schumer","zipcode":"14517"}
+I, [2015-01-21T12:02:27.123440 #70268]  INFO -- : {"name":"Shannon Warner","congress_person":"Unknown","zipcode":"3082"}
+I, [2015-01-21T12:02:27.274829 #70268]  INFO -- : {"name":"Shannon Davis","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T12:02:27.571598 #70268]  INFO -- : {"name":"Nash Okaty","congress_person":"Jim McDermott","zipcode":"98122"}
+I, [2015-01-21T12:02:27.754169 #70268]  INFO -- : {"name":"Amanda Hartzell","congress_person":"Charles Schumer","zipcode":"14841"}
+I, [2015-01-21T12:02:27.905667 #70268]  INFO -- : {"name":"David Thomas","congress_person":"Unknown","zipcode":"7306"}
